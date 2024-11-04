@@ -10,7 +10,8 @@ It consists of hardware:
   Webcam pointed from display down to table
   
 
-![IMG_20241104_193752](https://github.com/user-attachments/assets/7ea8d8a0-0aa3-499d-983b-cbabca51f36b)
+![IMG_20241104_193752 (2)](https://github.com/user-attachments/assets/49940dcc-a477-4430-b08f-95d4290d4bc9)
+
 
 
 Webcam is caliberated by using webcam software (i used camo studio) to decrease brightness of image so its easy to recognise distinct LED's
